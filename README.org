@@ -1,0 +1,10 @@
+* cl-server-manager
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pw4ever/cl-server-manager.git   |
+| commit  | 80818a6  |
+| systems | cl-server-manager |
+|---------+-------------------------------------------|
+
